@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns="http://www.cyf.com/schema/ratelimit"  
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:beans="http://www.springframework.org/schema/beans"  
+    targetNamespace="http://www.cyf.com/schema/ratelimit"  
+    elementFormDefault="qualified" attributeFormDefault="unqualified">  
+    <xsd:import namespace="http://www.springframework.org/schema/beans" />  
+    <xsd:element name="annotation-config"></xsd:element>
+</xsd:schema>
